@@ -1,0 +1,1101 @@
+text,converted,customer_type,product_category,call_duration,previous_interactions,agent_id,timestamp
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The price point is higher than we budgeted for. We'll need to reconsider. I have some concerns about the cost.",False,New,Software,25,3,A7044,2023-12-04
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I can see how this would save us time and money. What's the implementation timeline? Your pricing is within our budget.",True,New,Consulting,36,5,A6567,2023-04-23
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I have concerns about the learning curve for our team. The timeline doesn't work for us.",False,New,Consulting,11,0,A7446,2023-01-27
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I can see how this would save us time and money. What's the implementation timeline? Your pricing is within our budget.",True,New,Services,14,3,A8288,2023-03-08
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm impressed with the features. I think this would work well for our team. I'm excited about this opportunity.",True,Existing,Training,38,0,A6462,2023-01-27
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I have some concerns about the cost.",False,Returning,Consulting,9,2,A3409,2023-01-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm convinced this is the right choice for us. How soon can we deploy? Your pricing is within our budget.",True,New,Services,42,2,A6295,2023-06-10
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by improving quality.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your solution addresses all our requirements. Let's talk about contract terms. Your pricing is within our budget.",True,Existing,Consulting,30,1,A4480,2023-03-06
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by improving quality.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This doesn't have all the features we're looking for. We'll keep looking. The timeline doesn't work for us.",False,Existing,Software,29,3,A1948,2023-09-27
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. The timeline doesn't work for us.",False,Returning,Software,33,3,A7801,2023-02-22
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by improving quality.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. The timeline doesn't work for us.",False,New,Consulting,43,4,A9748,2023-04-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. I have some concerns about the cost.",False,Existing,Training,39,4,A2792,2023-08-13
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I have concerns about the learning curve for our team. I'm not seeing how this fits our workflow.",False,Returning,Consulting,43,2,A3712,2023-11-05
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. I have some concerns about the cost.",False,Returning,Training,25,1,A2003,2023-01-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. I'm not convinced about the ROI.",False,Existing,Software,23,4,A7845,2023-08-04
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I can see how this would save us time and money. What's the implementation timeline? I can see the value proposition clearly.",True,Existing,Services,24,0,A9280,2023-03-22
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This solution addresses exactly what we've been looking for. When can we start? I can see the value proposition clearly.",True,New,Training,6,1,A6885,2023-01-24
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. We need to evaluate other options as well.",False,Returning,Services,36,1,A4742,2023-03-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by improving quality.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. I have some concerns about the cost.",False,Existing,Hardware,18,3,A2615,2023-06-07
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I have concerns about the learning curve for our team. We need to evaluate other options as well.",False,Returning,Hardware,18,0,A2683,2023-11-06
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. The timeline doesn't work for us.",False,New,Consulting,24,1,A9201,2023-12-21
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. I'm not seeing how this fits our workflow.",False,Existing,Training,43,4,A3241,2023-06-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. Your pricing is within our budget.",True,New,Services,36,5,A4916,2023-02-04
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. The timeline doesn't work for us.",False,Returning,Hardware,5,2,A2118,2023-01-20
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by improving quality.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. The timeline doesn't work for us.",False,Existing,Training,23,5,A7310,2023-02-28
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This solution addresses exactly what we've been looking for. When can we start? This looks like a great solution for us.",True,Returning,Services,23,4,A4335,2023-04-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The ROI on this looks promising. I'd like to get started as soon as possible. I can see the value proposition clearly.",True,Existing,Software,5,5,A9502,2023-08-02
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your product seems to solve our main pain points. I'd like to move forward. I'm excited about this opportunity.",True,Returning,Training,44,2,A1883,2023-08-04
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by improving quality.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I appreciate the presentation, but I don't think it's a good fit for us. We need to evaluate other options as well.",False,Existing,Services,44,3,A6876,2023-02-08
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're not ready to make a change at this time. Maybe next quarter. The timeline doesn't work for us.",False,New,Consulting,19,3,A5123,2023-02-01
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The implementation seems too complex for our current resources. I have some concerns about the cost.",False,Existing,Software,7,1,A8676,2023-04-13
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm very interested in your product. Can you tell me more about pricing? This looks like a great solution for us.",True,Existing,Consulting,25,5,A3225,2023-11-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your product seems to solve our main pain points. I'd like to move forward. I'm excited about this opportunity.",True,New,Software,26,0,A7214,2023-05-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by improving quality.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm very interested in your product. Can you tell me more about pricing? This looks like a great solution for us.",True,Existing,Training,6,5,A9835,2023-09-23
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by saving time.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I have some concerns about the cost.",False,New,Services,30,1,A2712,2023-11-08
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. I have some concerns about the cost.",False,New,Consulting,41,5,A9719,2023-02-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by saving time.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I have some concerns about the cost.",False,Existing,Services,24,4,A2739,2023-03-07
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by improving quality.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. I'm not convinced about the ROI.",False,New,Training,37,2,A3167,2023-08-28
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're not ready to make a change at this time. Maybe next quarter. I'm not seeing how this fits our workflow.",False,Existing,Services,8,1,A9559,2023-01-22
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by improving quality.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. The features align well with our needs.",True,Returning,Services,36,1,A6792,2023-11-18
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The price point is higher than we budgeted for. We'll need to reconsider. We need to evaluate other options as well.",False,Returning,Hardware,36,3,A4535,2023-05-01
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This doesn't have all the features we're looking for. We'll keep looking. I'm not convinced about the ROI.",False,Existing,Hardware,44,0,A7563,2023-02-01
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by saving time.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This solution addresses exactly what we've been looking for. When can we start? The features align well with our needs.",True,Existing,Consulting,26,1,A8108,2023-03-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The ROI on this looks promising. I'd like to get started as soon as possible. I'm excited about this opportunity.",True,New,Consulting,38,2,A5034,2023-02-16
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. I'm excited about this opportunity.",True,New,Software,6,0,A4531,2023-06-24
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I'm not seeing how this fits our workflow.",False,Existing,Training,17,0,A3806,2023-04-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm convinced this is the right choice for us. How soon can we deploy? I can see the value proposition clearly.",True,New,Consulting,21,2,A5913,2023-08-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. I'm not seeing how this fits our workflow.",False,New,Software,34,5,A8887,2023-09-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your solution addresses all our requirements. Let's talk about contract terms. I'm excited about this opportunity.",True,Returning,Services,28,0,A4799,2023-12-21
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm convinced this is the right choice for us. How soon can we deploy? I can see the value proposition clearly.",True,New,Consulting,45,3,A1278,2023-02-23
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by saving time.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I'm not convinced about the ROI.",False,New,Services,5,4,A3553,2023-10-09
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by improving quality.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I'm not convinced about the ROI.",False,New,Consulting,18,3,A8847,2023-02-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by improving quality.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're not ready to make a change at this time. Maybe next quarter. I have some concerns about the cost.",False,Existing,Training,17,5,A3269,2023-08-18
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. I can see the value proposition clearly.",True,Returning,Software,34,3,A6213,2023-07-02
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by saving time.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. The timeline doesn't work for us.",False,New,Software,23,2,A1516,2023-02-17
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. I'm excited about this opportunity.",True,Returning,Consulting,44,2,A9550,2023-08-01
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The price point is higher than we budgeted for. We'll need to reconsider. We need to evaluate other options as well.",False,New,Consulting,32,3,A9249,2023-08-15
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by improving quality.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This solution addresses exactly what we've been looking for. When can we start? I can see the value proposition clearly.",True,Existing,Services,6,0,A8333,2023-11-18
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The implementation seems too complex for our current resources. I have some concerns about the cost.",False,Returning,Services,8,5,A5755,2023-06-28
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. This looks like a great solution for us.",True,Returning,Consulting,27,4,A9958,2023-03-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I have concerns about the learning curve for our team. I have some concerns about the cost.",False,Existing,Hardware,39,3,A6551,2023-03-14
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I have some concerns about the cost.",False,Returning,Services,7,3,A3715,2023-09-20
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The ROI on this looks promising. I'd like to get started as soon as possible. I'm excited about this opportunity.",True,Returning,Services,43,1,A5137,2023-11-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This doesn't have all the features we're looking for. We'll keep looking. I'm not convinced about the ROI.",False,Existing,Software,32,5,A8980,2023-09-23
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. We need to evaluate other options as well.",False,Existing,Software,16,4,A4079,2023-05-09
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. Your pricing is within our budget.",True,Existing,Services,31,2,A7999,2023-10-09
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by saving time.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your product seems to solve our main pain points. I'd like to move forward. Your pricing is within our budget.",True,Returning,Hardware,14,3,A1223,2023-10-02
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This doesn't have all the features we're looking for. We'll keep looking. I have some concerns about the cost.",False,Returning,Consulting,30,5,A8444,2023-01-05
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I appreciate the presentation, but I don't think it's a good fit for us. We need to evaluate other options as well.",False,Returning,Software,20,5,A2151,2023-04-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The price point is higher than we budgeted for. We'll need to reconsider. We need to evaluate other options as well.",False,New,Training,13,3,A2621,2023-07-03
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. Your pricing is within our budget.",True,Returning,Training,41,0,A4422,2023-08-14
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. I'm not seeing how this fits our workflow.",False,Existing,Consulting,26,5,A3619,2023-08-21
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by saving time.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I appreciate the presentation, but I don't think it's a good fit for us. We need to evaluate other options as well.",False,Existing,Training,25,4,A6206,2023-01-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: The price point is higher than we budgeted for. We'll need to reconsider. I have some concerns about the cost.",False,Returning,Hardware,12,3,A1555,2023-09-08
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. Your pricing is within our budget.",True,New,Training,32,3,A4405,2023-12-20
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: Your product seems to solve our main pain points. I'd like to move forward. The features align well with our needs.",True,Returning,Services,27,2,A7569,2023-09-17
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. I have some concerns about the cost.",False,Returning,Hardware,41,1,A8844,2023-06-14
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. I'm not seeing how this fits our workflow.",False,New,Consulting,8,3,A1063,2023-02-24
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by improving quality.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm impressed with the features. I think this would work well for our team. I can see the value proposition clearly.",True,Existing,Services,19,5,A5421,2023-02-14
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by improving quality.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. The timeline doesn't work for us.",False,Existing,Consulting,34,3,A3758,2023-05-01
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. I have some concerns about the cost.",False,Returning,Training,12,4,A1212,2023-08-09
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm impressed with the features. I think this would work well for our team. I can see the value proposition clearly.",True,Returning,Software,19,1,A1087,2023-01-07
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I have concerns about the learning curve for our team. The timeline doesn't work for us.",False,Returning,Training,23,5,A1214,2023-04-19
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I can see how this would save us time and money. What's the implementation timeline? I can see the value proposition clearly.",True,Returning,Hardware,38,2,A7153,2023-10-15
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm very interested in your product. Can you tell me more about pricing? Your pricing is within our budget.",True,Existing,Consulting,40,1,A4201,2023-06-09
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by saving time.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm very interested in your product. Can you tell me more about pricing? I can see the value proposition clearly.",True,New,Training,23,3,A9169,2023-08-25
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Services solution is designed specifically to address those challenges by improving quality.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. I can see the value proposition clearly.",True,Returning,Training,31,5,A7715,2023-03-18
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This solution addresses exactly what we've been looking for. When can we start? The features align well with our needs.",True,Existing,Consulting,45,4,A7421,2023-04-08
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by saving time.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. This looks like a great solution for us.",True,New,Software,44,3,A6229,2023-12-18
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by improving quality.
+
+Customer: Do you have case studies?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. The features align well with our needs.",True,Existing,Software,9,3,A1476,2023-10-11
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by reducing overhead.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. This looks like a great solution for us.",True,New,Software,11,2,A8949,2023-11-25
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with time management.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. I'm not convinced about the ROI.",False,New,Services,11,2,A4413,2023-05-16
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Software solution is designed specifically to address those challenges by saving time.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. Your pricing is within our budget.",True,New,Services,5,5,A9025,2023-12-22
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by streamlining processes.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We need to prioritize other projects right now. Let's reconnect later. I have some concerns about the cost.",False,New,Training,8,4,A6739,2023-04-12
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with quality.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by saving time.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I see the value in what you're offering. Let's discuss implementation details. The features align well with our needs.",True,Existing,Software,12,3,A8598,2023-05-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with integration.
+
+Agent: I understand. Our Training solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: We're currently using a competitor's product and are satisfied with it. The timeline doesn't work for us.",False,New,Services,23,1,A7327,2023-01-26
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by improving quality.
+
+Customer: How much does it cost?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm very interested in your product. Can you tell me more about pricing? Your pricing is within our budget.",True,Existing,Hardware,12,3,A4060,2023-12-28
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Consulting solution is designed specifically to address those challenges by seamless integration.
+
+Customer: How is this better than competitors?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: This is exactly what our team needs. Let's schedule a demo for the rest of the department. I'm excited about this opportunity.",True,Returning,Services,15,4,A4590,2023-05-23
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with costs.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by seamless integration.
+
+Customer: What's the implementation time?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I need to discuss this with my team before making any decisions. The timeline doesn't work for us.",False,Returning,Training,18,1,A5371,2023-04-20
+"Agent: Thank you for taking the time to discuss our solution today. I'd like to understand your current challenges and how we might help.
+
+Customer: We've been having issues with efficiency.
+
+Agent: I understand. Our Hardware solution is designed specifically to address those challenges by saving time.
+
+Customer: What kind of support do you offer?
+
+Agent: That's a great question. [Detailed answer with specific information about the product/service]
+
+Customer: I'm not sure this is what we need right now. Let me think about it. The timeline doesn't work for us.",False,Returning,Consulting,38,1,A8490,2023-05-28

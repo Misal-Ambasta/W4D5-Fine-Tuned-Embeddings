@@ -1,0 +1,9 @@
+{
+  "model_type": "sentence-transformers",
+  "base_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_name": "sales_embeddings",
+  "max_seq_length": 512,
+  "do_lower_case": true,
+  "pooling_mode": "mean",
+  "version": "1.0.0"
+}
