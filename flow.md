@@ -9,9 +9,9 @@ This document explains what happens under the hood when you start the project an
 ```mermaid
 flowchart TD
     A[run_all.py] --> B{CLI Flags}
-    B --win/linux--> C[Activate venv (if needed)]
-    C --> D[Start FastAPI (run_api.py)]
-    C --> E[Start Streamlit (app/main.py)]
+    B -->|win/linux| C[Activate venv if needed]
+    C --> D[Start FastAPI run_api.py]
+    C --> E[Start Streamlit app/main.py]
 ```
 
 * `run_all.py` accepts `--win | --linux`, port flags, and `--no-venv`.
@@ -33,8 +33,10 @@ Streamlit Button → /api/upload/transcripts → api.routes.upload_transcripts �
 sequenceDiagram
     participant UI as Streamlit
     participant API as FastAPI
+    participant Storage as Storage
     UI->>API: POST /api/upload/transcripts (multipart/file)
-    API-->API: save file to data/raw/
+    API->>Storage: save file to data/raw/
+    Storage-->>API: success confirmation
     API-->>UI: JSON {status: "uploaded"}
 ```
 
@@ -48,6 +50,9 @@ UI text box → /api/predict → embeddings.inference.predict_transcript
 
 ```mermaid
 sequenceDiagram
+    participant UI as Streamlit
+    participant API as FastAPI
+    participant Embeddings as Embeddings Service
     UI->>API: POST /api/predict {transcript}
     API->>Embeddings: generate_embedding()
     Embeddings-->>API: vector
@@ -64,12 +69,17 @@ UI ➜ /api/train ➜ training.pipeline.fine_tune
 
 ```mermaid
 sequenceDiagram
+    participant UI as Streamlit
+    participant API as FastAPI
+    participant Trainer as Training Pipeline
+    participant Embeddings as Embeddings Model
     UI->>API: POST /api/train {params}
     API->>Trainer: fine_tune_model(dataset_path, params)
-    loop epochs
-        Trainer->>Embeddings: forward + backward
+    loop Training Epochs
+        Trainer->>Embeddings: forward + backward pass
+        Embeddings-->>Trainer: gradients
     end
-    Trainer-->>API: metrics
+    Trainer-->>API: training metrics
     API-->>UI: JSON metrics
 ```
 
