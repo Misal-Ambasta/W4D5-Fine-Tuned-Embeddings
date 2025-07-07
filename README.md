@@ -12,51 +12,24 @@ This project implements a system for predicting sales conversion probability fro
 
 ## Project Structure
 ```
-.
 ├── api/                  # FastAPI backend
-│   ├── __init__.py       # Package initialization
-│   └── main.py           # API endpoints
 ├── app/                  # Streamlit frontend
-│   ├── __init__.py       # Package initialization
-│   └── main.py           # UI components
 ├── data/                 # Data storage
 │   ├── raw/              # Raw input data
-│   └── processed/        # Processed data ready for training
+│   └── processed/        # Processed data
 ├── models/               # Model storage
 │   ├── base/             # Pre-trained models
 │   └── fine_tuned/       # Fine-tuned models
 ├── notebooks/            # Jupyter notebooks for exploration
 ├── src/                  # Source code
-│   ├── __init__.py       # Package initialization
 │   ├── data/             # Data processing modules
-│   │   ├── __init__.py   # Package initialization
-│   │   ├── __main__.py   # Module entry point
-│   │   ├── data_processor.py # Data processing utilities
-│   │   └── sample_generator.py # Sample data generation
-│   ├── embeddings/       # Embedding model implementation
-│   │   ├── __init__.py   # Package initialization
-│   │   ├── embedding_model.py # Core embedding functionality
-│   │   └── fine_tuning.py # Fine-tuning implementation
-│   ├── evaluation/       # Metrics and evaluation
-│   │   ├── __init__.py   # Package initialization
-│   │   └── metrics.py    # Performance metrics
+│   ├── embeddings/       # Embedding generation and fine-tuning
+│   ├── evaluation/       # Model evaluation
 │   └── utils/            # Utility functions
-│       ├── __init__.py   # Package initialization
-│       └── helpers.py    # Helper functions
-├── tests/                # Unit tests
-│   ├── __init__.py       # Package initialization
-│   └── test_embedding_model.py # Embedding model tests
-├── .env.example          # Environment variables template
-├── generate_sample_data.py # Script to generate sample data
-├── problem_statement.md  # Project requirements
+├── tests/                # Test cases
+├── .env.example          # Example environment variables
 ├── requirements.txt      # Project dependencies
-├── run_all.py            # Script to run both API and app
-├── run_api.py            # Script to run the API
-├── run_app.py            # Script to run the Streamlit app
-├── run_evaluation.py     # Script to evaluate model performance
-├── run_tests.py          # Script to run tests
-├── setup.py              # Setup script
-└── README.md             # Project documentation
+└── README.md            # Project documentation
 ```
 
 ## Installation
@@ -166,29 +139,6 @@ The implementation orchestrates the entire pipeline using functional programming
 - Evaluation metrics comparing fine-tuned vs. generic embeddings
 - FastAPI backend for model serving
 - Streamlit frontend for interactive usage
-
-## Project Structure
-
-```
-├── api/                  # FastAPI backend
-├── app/                  # Streamlit frontend
-├── data/                 # Data storage
-│   ├── raw/              # Raw input data
-│   └── processed/        # Processed data
-├── models/               # Model storage
-│   ├── base/             # Pre-trained models
-│   └── fine_tuned/       # Fine-tuned models
-├── notebooks/            # Jupyter notebooks for exploration
-├── src/                  # Source code
-│   ├── data/             # Data processing modules
-│   ├── embeddings/       # Embedding generation and fine-tuning
-│   ├── evaluation/       # Model evaluation
-│   └── utils/            # Utility functions
-├── tests/                # Test cases
-├── .env.example          # Example environment variables
-├── requirements.txt      # Project dependencies
-└── README.md            # Project documentation
-```
 
 ## Installation
 
